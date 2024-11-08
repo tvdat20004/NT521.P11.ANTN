@@ -216,5 +216,5 @@ poetry.toml
 
 # LSP config files
 pyrightconfig.json
-
+.gdb_history
 # End of https://www.toptal.com/developers/gitignore/api/ansible,java,python,git
